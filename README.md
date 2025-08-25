@@ -1,4 +1,4 @@
-# SwagLabs Shopping - Sistema de Cupons de Desconto
+#O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais
 
 Este projeto faz parte dos desafios práticos do Bootcamp WEX – End to End Engineering, uma iniciativa conjunta entre a WEX, empresa global de tecnologia fi nanceira, e a plataforma de ensino DIO (Digital Innovation One).Apresenta a implementação da funcionalidade de cupons de desconto para a plataforma SwagLabs Shopping, desenvolvido como parte de um desafio de projeto. A documentação incluída abrange todo o ciclo de desenvolvimento, desde o planejamento até a implementação e testes, seguindo metodologias ágeis e boas práticas de engenharia de software.
 
